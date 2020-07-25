@@ -11,4 +11,4 @@ Then clone the repo using.
 git clone https://github.com/iam-akashdeep/build_script.git
 ```
 
-Change the directory and variables according to your source.
+After that change the directory and variables according to your needs.
